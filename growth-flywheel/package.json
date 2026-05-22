@@ -1,0 +1,18 @@
+{
+  "name": "lemon-growth-flywheel",
+  "version": "1.0.0",
+  "description": "Vendor contact upload → deduplication → personalized invite pipeline for Lemon",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "csv-parse": "^5.5.6",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "libphonenumber-js": "^1.11.4",
+    "multer": "^1.4.5-lts.1",
+    "resend": "^3.2.0",
+    "twilio": "^5.2.0"
+  }
+}
