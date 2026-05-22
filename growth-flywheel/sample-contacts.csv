@@ -1,0 +1,9 @@
+name,phone,email
+John Smith,+13051234568,john@example.com
+Maria Garcia,+13051234569,maria@example.com
+David Lee,+13051234570,david@example.com
+Sarah Johnson,+13051234571,sarah@example.com
+Carlos Rivera,+13051234572,
+,,
+Emma Wilson,,emma@example.com
+existing@example.com,,existing@example.com
